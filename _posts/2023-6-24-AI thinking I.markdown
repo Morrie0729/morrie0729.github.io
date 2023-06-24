@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "北大AI短片感谢"
+title:  "北大AI短片感想"
 date:   2023-06-24 17:00:00 +0800
 categories: Morrie
 ---
