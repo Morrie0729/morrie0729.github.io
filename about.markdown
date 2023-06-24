@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-multiply-personality
-welcome
+分享在多元、变化的2023年所思所想
